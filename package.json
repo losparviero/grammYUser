@@ -1,6 +1,6 @@
 {
   "name": "grammyuser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "User management database middleware plugin for grammY!",
   "main": "user.js",
   "scripts": {
@@ -12,7 +12,19 @@
     "email": "me@zubin.org.in",
     "url": "https://zubin.org.in"
   },
+  "repository": {
+    "type": "git", 
+    "url": "https://github.com/losparviero/grammYUser.git"
+  },
   "license": "MIT",
+  "keywords": [
+    "grammy",
+    "grammyjs",
+    "grammy-plugin",
+    "middleware",
+    "telegram",
+    "telegram-bot"
+  ],
   "dependencies": {
     "dotenv": "^16.3.1",
     "input": "^1.0.1",
