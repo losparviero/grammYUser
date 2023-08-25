@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node create.js"
   },
-  "author": "",
+  "author": {
+    "name": "Zubin",
+    "email": "me@zubin.org.in",
+    "url": "https://zubin.org.in"
+  },
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.3.1",
